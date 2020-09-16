@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "elm make src/Main.elm --output dist"
+    "build": "elm make src/Main.elm --output dist/index.html"
   },
   "repository": {
     "type": "git",
